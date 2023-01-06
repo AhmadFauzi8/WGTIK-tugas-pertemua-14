@@ -1,0 +1,4 @@
+functionfac(n)
+	comment Return n 
+	 ifn = 0return1
+	 else returnfac(n-1) * n
